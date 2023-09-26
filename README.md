@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/y9y25tefi5401.png" alt="Py" width="300" height="300">
+  <img src="https://i.redd.it/y9y25tefi5401.png" alt="Py" >
   <h1>Python - Variable Annotations</h1>
   <p> * Type annotations in Python 3</p>
   <p>Type Hints * Static Analysis * Optional Documentation</p>
