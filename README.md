@@ -13,8 +13,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ## Resources
 
