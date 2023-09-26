@@ -29,7 +29,7 @@ age: int = 30
 name: str = "Alice"
 is_valid: bool = True
 These annotations indicate that age is expected to be an integer, name a string, and is_valid a boolean.
-
+```
 ## Benefits
 
 Clarity: Annotations make code more self-explanatory, reducing the need for comments to describe variable types.
