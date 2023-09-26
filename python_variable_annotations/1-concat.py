@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A type-annotated function concat that takes a string str1 and a 
+"""A type-annotated function concat that takes a string str1 and a
    string str2 type-annotated function"""
 
 
