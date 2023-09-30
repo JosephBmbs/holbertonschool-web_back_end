@@ -7,7 +7,6 @@ Welcome to the Python Async project! In this project, we'll explore the exciting
 
 ## Table of Contents
 
-- [About the Author](#about-the-author)
 - [Resources](#resources)
 - [Learning Objectives](#learning-objectives)
 - [Requirements](#requirements)
@@ -19,13 +18,8 @@ Welcome to the Python Async project! In this project, we'll explore the exciting
 - [Using the Random Module](#using-the-random-module)
 - [Best Practices](#best-practices)
 - [Conclusion](#conclusion)
+- [Author](#author)
 
-## About the Author
-
-**Emmanuel Turlay**  
-*Staff Software Engineer at Cruise*
-
-![Emmanuel Turlay](author_image.png)
 
 ## Resources
 
