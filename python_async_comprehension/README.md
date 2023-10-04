@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Python - Async Comprehension</h1>
-  <img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231004%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231004T150828Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0144b46de997a99501e2106325488576039e03c1e058f04ed7a8b9c6aa7fa2a1" alt="Python - Async Comprehension img">
+  <img src="https://files.realpython.com/media/A-Complete-Walkthrough-of-Pythons-Asyncio_Watermarked.5b6b9a01fdc9.jpg" alt="Python - Async Comprehension img">
 </div>
 
 ## Table of Contents
