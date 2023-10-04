@@ -27,8 +27,6 @@ Welcome to the NoSQL project! This project provides an introduction to NoSQL dat
 
 **Project Weight**: 1
 
-**Score**: Your score will be updated as you progress.
-
 ### Resources
 
 For this project, you are encouraged to read or watch the following resources:
