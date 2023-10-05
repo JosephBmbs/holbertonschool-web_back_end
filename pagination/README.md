@@ -37,6 +37,7 @@ To ensure the success of this project, please adhere to the following requiremen
 - Documentation should be more than just a single word; it should be a meaningful sentence explaining the purpose of the module, class, or method.
 
 ## Project Progress
-The progress in this project will be tracked, and your score will be updated accordingly.
-
 Happy coding!
+
+## Author
+Youssef Saad
