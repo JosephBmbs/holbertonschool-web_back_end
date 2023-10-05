@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Log stats from the collection"""
+"""Log stats from collection"""
 
 from pymongo import MongoClient
 
 METHODS = ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
 
 
-def log_stats(Xmongo_collection, option=None):
-    """Script which is provides some stats about Nginx logs stored in MongoDB"""
+def log_stats(mongo_collection, option=None):
+    """Script that provides some stats about Nginx logs stored in MongoDB"""
     if option:
         value = mongo_collection.count_documents({'method': option})
         print(f'\tmethod {option}: {value}')
