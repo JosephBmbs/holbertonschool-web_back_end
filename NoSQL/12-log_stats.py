@@ -6,7 +6,7 @@ from pymongo import MongoClient
 METHODS = ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
 
 
-def log_stats(mongo_collection, option=None):
+def log_stats(Xmongo_collection, option=None):
     """Script which is provides some stats about Nginx logs stored in MongoDB"""
     if option:
         value = mongo_collection.count_documents({'method': option})
