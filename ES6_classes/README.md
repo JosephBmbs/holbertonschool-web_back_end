@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ES6 Classes</h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F20128360%2Findicate-that-processor-heavy-js-function-is-running-gif-spinners-dont-animate&psig=AOvVaw0t9RACrlqz8SSQ0tUucqoi&ust=1696788715098000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjZn_zE5IEDFQAAAAAdAAAAABAp" alt="ES6 Classes" width="300" height="200">
+  <img src="https://i.stack.imgur.com/INdOQ.gif" alt="ES6 Classes" width="300" height="200">
 </div>
 
 ## Introduction
