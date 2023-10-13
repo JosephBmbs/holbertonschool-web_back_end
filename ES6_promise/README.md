@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ES6 Promises</h1>
-  <img src="image-url-here" alt="ES6 Promises">
+  <img src="https://i.stack.imgur.com/INdOQ.gif" alt="ES6 Promises">
 </div>
 
 ## Overview
